@@ -1,5 +1,5 @@
 /*
-mudei aqui p testar rapidão
+mudei aqui p testar rapidaoo fml
 Var
 // Seção de Declarações das variáveis
    resultado01, valor01, valor02, valor03: inteiro
