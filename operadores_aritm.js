@@ -1,4 +1,5 @@
 /*
+mudei aqui p testar rapidão
 Var
 // Seção de Declarações das variáveis
    resultado01, valor01, valor02, valor03: inteiro
